@@ -5,7 +5,7 @@ ranj45/ranj45 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-A recent B.SC graduate in Computer Science with a strong<br>foundation in programming and web development. Proficient<br>in HTML, CSS, Java, and SQL, with hands-on experience in<br>building user-friendly and visually appealing web pages. Adept<br>at problem-solving, eager to learn, and passionate about<br>leveraging technical skills to contribute effectively to a dynamic development team.
+A recent B.SC graduate in Computer Science with a strong<br>foundation in programming and web development. Proficient<br>in HTML, CSS, JavaScript,Core Java and SQL, with hands-on experience in<br>building user-friendly and visually appealing web pages. Adept<br>at problem-solving, eager to learn, and passionate about<br>leveraging technical skills to contribute effectively to a dynamic development team.
 
 
 ## 🌐 Socials:
